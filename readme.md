@@ -1,5 +1,5 @@
 
-# UAS - 06TPLM001 - KELOMPOK 1 - 181011402236 - Aenun Nisa 
+# UAS - 06TPLM001 - KELOMPOK 1 - 181011402236 - Aenun Nisa
 
 Repository Jawaban UAS Mata Kuliah Pemrogramman Web 2 kelas 06TPLM001
 APLIKASI DATA PASIEN COVID-19
